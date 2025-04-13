@@ -1,0 +1,18 @@
+[
+    {
+        "role": "AI-ML intern",
+        "organisation": "AICTE",
+        "startDate":"Jan, 2024",
+        "endDate":"Mar, 2024",
+        "experiences":["Gained hands on experience in ML concepts,model building"],
+        "imagesrc":"aicte.jpg"
+    },
+    {
+        "role":"Volunteer",
+        "organisation":"T-works",
+        "startDate":"Dec, 2023",
+        "endDate":"Dec, 2023",
+        "experiences":["Collaborated with a team to facilitate workshops, demonstrations, and exhibits showcasing innovative projects."],
+        "imagesrc":"tworks.jpg"
+    }
+]

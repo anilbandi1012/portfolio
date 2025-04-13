@@ -1,0 +1,14 @@
+[
+    {
+        "title":"Restuarant Application",
+        "imageSrc":"project.png",
+        "description":" Integrated accessibility features (aria labels) to improve usability for visually impaired users.This focuses on responsive design, optimal user experience across devices.",
+        "skills":["React","HTML","Css"]
+    },
+    {
+        "title":"Hire-Ease",
+        "imageSrc":"project.png",
+        "description":"Developed a web application that connects farmers with skilled workers, enabling farmers to send requests and post job opportunities.along with a rating system to ensure quality.",
+        "skills":["React","Node","MySql"]
+    }
+]
