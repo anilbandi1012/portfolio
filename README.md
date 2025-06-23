@@ -13,7 +13,7 @@ This is my personal portfolio website built using **React.js**, styled with **HT
 
 ## 🚀 Live Demo
 
-Check it out here: [View Portfolio]((https://bandis-portfolio.netlify.app/))
+Check it out here: [View Portfolio]([(https://bandis-portfolio.netlify.app/)])
 
 ## 🛠 Tech Stack
 
